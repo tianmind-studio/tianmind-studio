@@ -1,8 +1,10 @@
-<h1 align="center">Tianmind Studio</h1>
+<h1 align="center">Tianmind Studio · 天智工坊</h1>
 
 <p align="center">
-  <b>AI-native tools, automation skills, and deployment kits for real-world builders.</b><br/>
-  <sub>We turn repeated workflow pain into reusable open-source utilities.</sub>
+  <b>AI 原生工具、Codex / Claude skills、小程序自动化和部署工具。</b><br/>
+  <b>AI-native tools, Codex / Claude skills, WeChat Mini Program automation, and deployment kits.</b><br/>
+  <sub>把真实工作里反复出现的问题，整理成可复用的开源工具。</sub><br/>
+  <sub>Turning repeated workflow pain into reusable open-source utilities.</sub>
 </p>
 
 <p align="center">
@@ -14,53 +16,61 @@
 
 ---
 
-## What I Build In Public
+## 我公开做什么 / What I Build In Public
 
-I publish small, practical projects that come from real work:
+我会把真实项目里反复用到的工具和 workflow 整理出来，做成别人能直接看、能 fork、能跑起来的公开仓库。
 
-- agent skills that make AI coding assistants more reliable
-- WeChat Mini Program scaffolding and pre-submission review workflows
-- Cloudflare, VPS, and deployment automation for China/HK operators
-- document, PDF, and macOS utility workflows
-- strict review systems for writing, code, plans, and launch materials
+I publish practical tools and workflows that come from real work. The goal is to make them easy to read, fork, run, and adapt.
 
-The goal is not to collect toy demos. The goal is to leave behind reusable tools that another builder can fork, run, and adapt.
+- AI coding agent skills / AI 编程助手 skills
+- 微信小程序生成、CloudBase-ready 结构和提审前预审 / WeChat Mini Program scaffolding, CloudBase-ready structure, and pre-submission review
+- Cloudflare、VPS、nginx、SSL 和部署自动化 / Cloudflare, VPS, nginx, SSL, and deployment automation
+- 文档、PDF、macOS 本地工具 workflow / document, PDF, and macOS utility workflows
+- 投稿、代码、方案、答辩材料的严格评审系统 / strict review systems for writing, code, plans, and launch materials
 
-## Featured Projects
+这些仓库不追求堆数量，更看重能不能被别人复用。  
+These repos are not meant to be a pile of demos. They are meant to be useful.
 
-| Project | What It Does | Why It Is Useful |
+## 代表项目 / Featured Projects
+
+| Project | 中文介绍 | English |
 | --- | --- | --- |
-| [wechat-miniapp-factory](https://github.com/tianmind-studio/wechat-miniapp-factory) | One-click WeChat Mini Program factory skills for Codex: scaffold, validate, and pre-review before submission | Turns an idea into a runnable native Mini Program starter with review notes |
-| [expert-review-panel](https://github.com/tianmind-studio/expert-review-panel) | Strict multi-expert review skill for papers, business plans, code, decks, and creative work | Finds serious flaws before submission |
-| [cloudflare-cn-kit](https://github.com/tianmind-studio/cloudflare-cn-kit) | Cloudflare CLI toolkit for China/HK operators | Diagnoses SSL redirect loops, DNS issues, and deployment edge cases |
-| [vps-init](https://github.com/tianmind-studio/vps-init) | Idempotent Ubuntu/Debian VPS bootstrap | Makes a fresh VPS safer and faster to use |
-| [site-bootstrap](https://github.com/tianmind-studio/site-bootstrap) | One-command static site / Node app deployment to a VPS | Automates Cloudflare DNS, nginx, and Let's Encrypt |
-| [word-pdf-watermark-macos](https://github.com/tianmind-studio/word-pdf-watermark-macos) | macOS Word/PDF watermark utility | Turns a local document workflow into a maintained open-source tool |
+| [wechat-miniapp-factory](https://github.com/tianmind-studio/wechat-miniapp-factory) | 一句话生成微信小程序项目，带 CloudBase-ready 结构、本地校验和提审前审核员预审。 | One-click WeChat Mini Program factory skills for Codex: scaffold, validate, and pre-review before submission. |
+| [expert-review-panel](https://github.com/tianmind-studio/expert-review-panel) | 严格多专家评审 skill，用在论文、BP、代码、竞赛材料和创意作品提交前。 | A strict multi-expert review skill for papers, business plans, code, decks, and creative work. |
+| [cloudflare-cn-kit](https://github.com/tianmind-studio/cloudflare-cn-kit) | 面向中国大陆和香港运维场景的 Cloudflare CLI 工具，处理 DNS、SSL 和常见部署问题。 | A Cloudflare CLI toolkit for China/HK operators, built for DNS, SSL, and deployment edge cases. |
+| [vps-init](https://github.com/tianmind-studio/vps-init) | Ubuntu / Debian VPS 初始化脚本，适合新服务器的基础安全和可用性配置。 | An idempotent Ubuntu/Debian VPS bootstrap for fresh servers. |
+| [site-bootstrap](https://github.com/tianmind-studio/site-bootstrap) | 一条命令部署静态站或 Node 应用到 VPS，自动处理 Cloudflare DNS、nginx 和 Let's Encrypt。 | One-command static site or Node app deployment with Cloudflare DNS, nginx, and Let's Encrypt. |
+| [word-pdf-watermark-macos](https://github.com/tianmind-studio/word-pdf-watermark-macos) | macOS 上的 Word / PDF 加水印工具，把本地文档流程整理成可维护的开源项目。 | A macOS Word/PDF watermark utility packaged as a maintainable open-source tool. |
 
-## Current Focus
+## 当前方向 / Current Focus
 
 - Codex / Claude-compatible skills
-- WeChat Mini Program automation
-- public-safe workflow packaging
-- deployment automation for small teams
-- practical AI agents that produce real artifacts
+- 微信小程序自动化 / WeChat Mini Program automation
+- 可公开、安全的 workflow 打包 / public-safe workflow packaging
+- 小团队部署自动化 / deployment automation for small teams
+- 能产出真实文件和项目的 AI agents / AI agents that produce real artifacts
 
-## Good First Places To Star
+## 可以先 Star 的项目 / Good First Places To Star
 
-If you found this profile from search, start here:
+如果你是第一次看到这个账号，可以先看这几个项目：
+
+If you are new here, start with these:
 
 1. [wechat-miniapp-factory](https://github.com/tianmind-studio/wechat-miniapp-factory)
 2. [expert-review-panel](https://github.com/tianmind-studio/expert-review-panel)
 3. [cloudflare-cn-kit](https://github.com/tianmind-studio/cloudflare-cn-kit)
 
-## Work With Me
+## 合作 / Work With Me
 
+我也做生产级网站、内部工具、AI workflow、SaaS 功能和部署系统。  
 I also build production websites, internal tools, AI workflows, SaaS features, and deployment systems for clients.
 
-- Website: [tianmind.com](https://tianmind.com)
-- Service catalog: [services](https://github.com/tianmind-studio/services)
-- GitHub issues are welcome for public repo feedback and feature ideas.
+- 官网 / Website: [tianmind.com](https://tianmind.com)
+- 服务目录 / Service catalog: [services](https://github.com/tianmind-studio/services)
+- 公开仓库的问题和功能建议，欢迎直接提 issue。  
+  Issues and feature ideas are welcome on public repos.
 
 <p align="center">
-  <sub>Build useful things. Package the repeatable parts. Share what is safe to share.</sub>
+  <sub>Build useful things. Package the repeatable parts. Share what is safe to share.</sub><br/>
+  <sub>做有用的东西，把可复用的部分沉淀下来，把适合公开的部分分享出去。</sub>
 </p>
