@@ -10,6 +10,7 @@
 <p align="center">
   <a href="https://tianmind.com"><img src="https://img.shields.io/badge/Website-tianmind.com-111111?style=flat-square" alt="Website"/></a>
   <a href="https://github.com/tianmind-studio/wechat-miniapp-factory"><img src="https://img.shields.io/badge/Featured-WeChat_MiniApp_Factory-0F766E?style=flat-square" alt="WeChat MiniApp Factory"/></a>
+  <a href="https://github.com/tianmind-studio/client-intake-workbench"><img src="https://img.shields.io/badge/Packaging-Client_Intake_Workbench-2563EB?style=flat-square" alt="Client Intake Workbench"/></a>
   <a href="https://github.com/tianmind-studio/expert-review-panel"><img src="https://img.shields.io/badge/Skill-Expert_Review_Panel-7C3AED?style=flat-square" alt="Expert Review Panel"/></a>
   <a href="https://github.com/tianmind-studio/cloudflare-cn-kit"><img src="https://img.shields.io/badge/Toolkit-Cloudflare_CN_Kit-F38020?style=flat-square" alt="Cloudflare CN Kit"/></a>
 </p>
@@ -31,10 +32,24 @@ I publish practical tools and workflows that come from real work. The goal is to
 这些仓库不追求堆数量，更看重能不能被别人复用。  
 These repos are not meant to be a pile of demos. They are meant to be useful.
 
+## 最近沉淀 / Recently Shipped
+
+这些方向来自真实项目、客户沟通、文档交付和部署排错。公开仓库只放脱敏后的模板、脚本和方法论，不公开客户原始资料、私人记忆或生产配置。
+
+These assets come from real delivery work: client intake, document handoff, deployment operations, and AI-agent workflows. Public repos contain sanitized templates, scripts, and reusable patterns, never raw client material, private memory, or production secrets.
+
+| Asset | 中文说明 | English |
+| --- | --- | --- |
+| [client-intake-workbench](https://github.com/tianmind-studio/client-intake-workbench) | 把微信聊天、截图、文件和报价线索整理成客户、需求、项目、收款和交付留痕的本地优先工作台。 | A local-first workbench for turning messy chats, screenshots, files, quotes, and delivery notes into trackable client work. |
+| [tianmind-landing](https://github.com/tianmind-studio/tianmind-landing) | 独立开发者/工作室服务页模板，强调可信服务、报价、案例和转化。 | A bilingual landing-page template for indie developers and small studios selling real services. |
+| Document delivery workflow | DOCX、PDF、目录、页码、截图检查和交付 QA 的方法包，正在从私有交付经验拆成公开工具。 | A document delivery workflow for DOCX, PDF, table of contents, page numbers, visual QA, and final handoff. |
+| Junius Brain loop | 从输入到行动：Obsidian 页面、SOP、脚本、skill、GitHub 资产和复盘闭环。 | An input-to-action loop: Obsidian notes, SOPs, scripts, skills, GitHub assets, and weekly synthesis. |
+
 ## 代表项目 / Featured Projects
 
 | Project | 中文介绍 | English |
 | --- | --- | --- |
+| [client-intake-workbench](https://github.com/tianmind-studio/client-intake-workbench) | 客户需求整理和交付留痕工作台，把混乱聊天转成可执行记录。 | A client-intake and delivery traceability workbench for messy service workflows. |
 | [wechat-miniapp-factory](https://github.com/tianmind-studio/wechat-miniapp-factory) | 一句话生成微信小程序项目，带 CloudBase-ready 结构、本地校验和提审前审核员预审。 | One-click WeChat Mini Program factory skills for Codex: scaffold, validate, and pre-review before submission. |
 | [expert-review-panel](https://github.com/tianmind-studio/expert-review-panel) | 严格多专家评审 skill，用在论文、BP、代码、竞赛材料和创意作品提交前。 | A strict multi-expert review skill for papers, business plans, code, decks, and creative work. |
 | [cloudflare-cn-kit](https://github.com/tianmind-studio/cloudflare-cn-kit) | 面向中国大陆和香港运维场景的 Cloudflare CLI 工具，处理 DNS、SSL 和常见部署问题。 | A Cloudflare CLI toolkit for China/HK operators, built for DNS, SSL, and deployment edge cases. |
@@ -46,6 +61,7 @@ These repos are not meant to be a pile of demos. They are meant to be useful.
 
 - Codex / Claude-compatible skills
 - 微信小程序自动化 / WeChat Mini Program automation
+- 客户需求整理和交付留痕 / client intake and delivery traceability
 - 可公开、安全的 workflow 打包 / public-safe workflow packaging
 - 小团队部署自动化 / deployment automation for small teams
 - 能产出真实文件和项目的 AI agents / AI agents that produce real artifacts
@@ -58,7 +74,8 @@ If you are new here, start with these:
 
 1. [wechat-miniapp-factory](https://github.com/tianmind-studio/wechat-miniapp-factory)
 2. [expert-review-panel](https://github.com/tianmind-studio/expert-review-panel)
-3. [cloudflare-cn-kit](https://github.com/tianmind-studio/cloudflare-cn-kit)
+3. [client-intake-workbench](https://github.com/tianmind-studio/client-intake-workbench)
+4. [cloudflare-cn-kit](https://github.com/tianmind-studio/cloudflare-cn-kit)
 
 ## 合作 / Work With Me
 
