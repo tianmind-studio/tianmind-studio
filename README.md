@@ -40,6 +40,7 @@ These assets come from real delivery work: client intake, document handoff, depl
 
 | Asset | 中文说明 | English |
 | --- | --- | --- |
+| [kunming-it-companies](https://github.com/tianmind-studio/kunming-it-companies) | 昆明技术机会雷达，整理昆明/云南技术公司、IT 公司、活动、社群和政府数字化项目线索。 | Kunming Tech Radar: a source-backed local map of tech companies, IT teams, events, communities, and public digital projects in Kunming/Yunnan. |
 | [client-intake-workbench](https://github.com/tianmind-studio/client-intake-workbench) | 把微信聊天、截图、文件和报价线索整理成客户、需求、项目、收款和交付留痕的本地优先工作台。 | A local-first workbench for turning messy chats, screenshots, files, quotes, and delivery notes into trackable client work. |
 | [tianmind-landing](https://github.com/tianmind-studio/tianmind-landing) | 独立开发者/工作室服务页模板，强调可信服务、报价、案例和转化。 | A bilingual landing-page template for indie developers and small studios selling real services. |
 | Document delivery workflow | DOCX、PDF、目录、页码、截图检查和交付 QA 的方法包，正在从私有交付经验拆成公开工具。 | A document delivery workflow for DOCX, PDF, table of contents, page numbers, visual QA, and final handoff. |
@@ -49,6 +50,7 @@ These assets come from real delivery work: client intake, document handoff, depl
 
 | Project | 中文介绍 | English |
 | --- | --- | --- |
+| [kunming-it-companies](https://github.com/tianmind-studio/kunming-it-companies) | 昆明技术机会雷达，把本地技术公司、岗位入口、活动、社群和公共项目线索整理成可搜索、可复核的数据。 | Kunming Tech Radar turns local companies, job-entry points, events, communities, and public project leads into searchable, reviewable open data. |
 | [client-intake-workbench](https://github.com/tianmind-studio/client-intake-workbench) | 客户需求整理和交付留痕工作台，把混乱聊天转成可执行记录。 | A client-intake and delivery traceability workbench for messy service workflows. |
 | [wechat-miniapp-factory](https://github.com/tianmind-studio/wechat-miniapp-factory) | 一句话生成微信小程序项目，带 CloudBase-ready 结构、本地校验和提审前审核员预审。 | One-click WeChat Mini Program factory skills for Codex: scaffold, validate, and pre-review before submission. |
 | [expert-review-panel](https://github.com/tianmind-studio/expert-review-panel) | 严格多专家评审 skill，用在论文、BP、代码、竞赛材料和创意作品提交前。 | A strict multi-expert review skill for papers, business plans, code, decks, and creative work. |
@@ -66,16 +68,17 @@ These assets come from real delivery work: client intake, document handoff, depl
 - 小团队部署自动化 / deployment automation for small teams
 - 能产出真实文件和项目的 AI agents / AI agents that produce real artifacts
 
-## 可以先 Star 的项目 / Good First Places To Star
+## 可以先看的项目 / Good First Projects
 
 如果你是第一次看到这个账号，可以先看这几个项目：
 
 If you are new here, start with these:
 
-1. [wechat-miniapp-factory](https://github.com/tianmind-studio/wechat-miniapp-factory)
-2. [expert-review-panel](https://github.com/tianmind-studio/expert-review-panel)
+1. [kunming-it-companies](https://github.com/tianmind-studio/kunming-it-companies)
+2. [wechat-miniapp-factory](https://github.com/tianmind-studio/wechat-miniapp-factory)
 3. [client-intake-workbench](https://github.com/tianmind-studio/client-intake-workbench)
-4. [cloudflare-cn-kit](https://github.com/tianmind-studio/cloudflare-cn-kit)
+4. [expert-review-panel](https://github.com/tianmind-studio/expert-review-panel)
+5. [cloudflare-cn-kit](https://github.com/tianmind-studio/cloudflare-cn-kit)
 
 ## 合作 / Work With Me
 
