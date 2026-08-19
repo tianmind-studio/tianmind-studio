@@ -1,71 +1,37 @@
-# TianMind Studio · 天智工坊
+# TianMind Studio · 天智工坊（编译现实）
 
-AI-assisted full-stack studio for practical demos, public-safe documentation, reusable tools, and verification-first delivery.
+AI-assisted tools, local-first workflows, deployable demos, and verification-first delivery.
 
-天智工坊专注把模糊想法、流程和材料整理成可打开、可验证、可交付的产品原型、自动化工具、公开文档和 demo。
+把模糊想法、业务流程和材料整理成可打开、可验证、可交付的工具、页面、自动化流程与公开文档。
 
-## What I Build
+## Focus / 方向
 
-- AI-assisted workflow tools and local-first systems.
-- Full-stack demos, static product pages, and public-safe showcases.
-- GitHub-ready README files, proof packs, issue templates, and delivery checklists.
-- Verification paths: tests, static checks, demo links, screenshots, CI, and handoff notes.
+- Local-first AI workflow tools and reusable Claude / Codex skills.
+- Full-stack demos, public data products, and practical deployment tooling.
+- Verification-first delivery with tests, CI, reproducible commands, and clear scope boundaries.
+- 本地优先的 AI 工作流、可复用技能、全栈演示、公开数据产品与部署工具。
 
-## 我能交付什么
+## Featured Work / 代表项目
 
-- AI 工作流诊断和可落地的工具原型。
-- 全栈 demo、静态展示页、服务页和公开案例页。
-- GitHub-ready README、案例文档、交付清单和可复用模板。
-- 可验证交付：测试命令、截图、demo 链接、CI 或静态检查。
-
-## Public Proof Links
-
-| Surface | Link | Why it matters |
+| Project | What it does | Verification |
 | --- | --- | --- |
-| Public studio | `https://junius.tianmind.com/studio.html` | Service scope, demos, proof, and public-safe boundary. |
-| English overview | `https://junius.tianmind.com/english.html` | English buyer entry path and safe first brief. |
-| First package menu | `https://junius.tianmind.com/packages.html` | Small starter packages with safe inputs and proof evidence. |
-| Demo gallery | `https://junius.tianmind.com/demos.html` | Openable demos and static outputs. |
-| Case studies | `https://junius.tianmind.com/case-studies.html` | Public-safe problem, build, proof, and boundary format. |
-| Public showcase case | `https://junius.tianmind.com/case-public-showcase.html` | Detailed proof of verification-first studio packaging. |
-| GitHub surface | `https://junius.tianmind.com/github.html` | Current public GitHub map, pinned repo candidates, and flagship repo standard. |
-| GitHub public audit | `https://junius.tianmind.com/github-audit.html` | Public readiness report for profile signals, repo proof gaps, and next updates. |
-| GitHub trust queue | `https://junius.tianmind.com/github-trust-queue.html` | Prioritized proof work for turning visible repositories into flagship trust assets. |
-| Repo proof pack | `https://junius.tianmind.com/repo-proof.html` | How a public repo becomes a flagship trust asset. |
-| Proof ledger | `https://junius.tianmind.com/proof-ledger.html` | Claim-to-evidence map for public service, demo, repository, and case claims. |
-| Trust center | `https://junius.tianmind.com/trust.html` | Verification-first delivery evidence and public-safe promise. |
-| Toolkit | `https://junius.tianmind.com/toolkit.html` | Reusable public-safe templates and checks. |
+| [english-coach](https://github.com/tianmind-studio/english-coach) | Turns everyday AI conversations into practical English practice. | [v2.0.0 release](https://github.com/tianmind-studio/english-coach/releases/tag/v2.0.0) · [live guide](https://tianmind-studio.github.io/english-coach/) |
+| [expert-review-panel](https://github.com/tianmind-studio/expert-review-panel) | Strict multi-perspective review skill for papers, plans, code, products, and submissions. | [releases](https://github.com/tianmind-studio/expert-review-panel/releases) · [CI](https://github.com/tianmind-studio/expert-review-panel/actions/workflows/ci.yml) |
+| [kunming-it-companies](https://github.com/tianmind-studio/kunming-it-companies) | Open data and opportunity map for Kunming and Yunnan technology communities. | [live site](https://kunming.tianmind.com/) · [validation](https://github.com/tianmind-studio/kunming-it-companies/actions) |
+| [cloudflare-cn-kit](https://github.com/tianmind-studio/cloudflare-cn-kit) | Cloudflare diagnostics and DNS tooling for China / Hong Kong operations. | Shell CLI · scoped-token workflow · documented checks |
+| [word-pdf-watermark-macos](https://github.com/tianmind-studio/word-pdf-watermark-macos) | Converts Word and PDF files to watermarked PDFs on macOS. | Reproducible Python / LibreOffice workflow |
+| [services](https://github.com/tianmind-studio/services) | Public-safe service catalog and starting boundary for studio work. | Scope, safe inputs, handoff expectations, and public contact |
 
-## Flagship Repo Candidates
+## How I Work / 工作方式
 
-Last reviewed from the public GitHub profile on 2026-05-21.
-
-| Repo | Public role | Proof direction |
-| --- | --- | --- |
-| `english-coach` | English learning skill | README, examples, verification command, usage boundary. |
-| `expert-review-panel` | Review and quality gate skill | Clear trigger, strict review flow, public examples. |
-| `services` | Studio service catalog | Service scope, proof links, public-safe buyer path. |
-| `cloudflare-site` | Static deployment baseline | Quick start, deployment notes, demo URL or screenshot. |
-| `word-pdf-watermark-macos` | Local document utility | CLI usage, sample output, macOS dependency notes. |
-
-## How To Evaluate My Work
-
-1. Open the demo, screenshot, or static output.
-2. Read the README and public-safe boundary.
-3. Run the verification command when available.
-4. Check whether the repo states scope, inputs, outputs, and limits.
-5. Start with a redacted brief before sharing private files, credentials, or account access.
-
-## Public-Safe Boundary
-
-Public repositories and profile content should not include customer files, raw private conversations, credentials, account access, contracts, sensitive commercial records, private backend URLs, database dumps, full private vault content, Hermes or safe-index configuration, or unconfirmed result claims.
-
-Use public links, redacted samples, sanitized screenshots, sample outputs, and verification commands instead.
-
-- No customer files.
-- No raw private conversations.
-- No credentials.
+1. Start from the outcome, target user, constraints, and acceptance evidence.
+2. Build the smallest useful version that can be opened and checked.
+3. Provide a verification path: tests, CI, a live URL, screenshots, or reproducible commands.
+4. Keep credentials, customer material, contracts, private conversations, and runtime data out of public repositories.
 
 ## Contact
 
-Public contact: `wx@tianmind.com`
+- Website: [tianmind.com](https://tianmind.com)
+- Email: [wx@tianmind.com](mailto:wx@tianmind.com)
+
+Public repositories contain public-safe examples and reusable tools only. Private client and runtime material is not published.
